@@ -1,0 +1,3 @@
+2025-12-03 07:05:07,072 - WARNING - TCGA-EJ-5509-01A-01-BS1_ROI.svs - After BasicModule.finalProcessingArea NO tissue remains detectable! Downstream modules likely to be incorrect/fail
+2025-12-03 07:05:07,098 - WARNING - TCGA-EJ-5509-01A-01-BS1_ROI.svs- saveMacro Can't Read 'macro' Image from Slide's Associated Images
+2025-12-03 07:06:51,514 - WARNING - TCGA-BH-A0DQ-01Z,1A.3A,.svs- saveMacro Can't Read 'macro' Image from Slide's Associated Images
